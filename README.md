@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-O objetivo principal aqui é me divertir resolvendo desafios com javam já que gosto de linguagens de alto nível.
+O objetivo principal aqui é me divertir resolvendo desafios com java já que amo linguagens de alto nível.
 Objetivos secundários: praticar  a sintaxe, explorar as funcionalidades da linguagem, aprender programação orientada a objetos.
 
 ## Tecnologias usadas
